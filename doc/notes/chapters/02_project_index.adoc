@@ -1,0 +1,39 @@
+== mini project index
+
+|===
+|group |project |source |Description
+
+.15+|https://www.udemy.com/[Udemy] https://www.udemy.com/user/sgslo/[Stephen Grider] https://www.udemy.com/course/react-redux/[Modern React with Redux]
+|
+|
+|
+
+| `seasons` / An app that displays the user's season
+|Lecture 48 ff
+|functional vs. class based components - state - lifecycle methods
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|
+|
+|
+
+|===

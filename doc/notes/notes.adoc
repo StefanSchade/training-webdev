@@ -1,0 +1,26 @@
+= Knowlege Base Domain Driven Design
+// toc-title definition MUST follow document title without blank line!
+:toc-title: Table of contents
+:toc: left
+:numbered:              // Number all section headers
+:sectnumlevels: 5       // Number up to section level 5
+:toclevels: 3           // Table of content should have only two levels
+:xrefstyle: short
+
+// configure DE settings for asciidoc
+
+include::config.adoc[]
+
+<<<
+
+include::chapters/01_introduction.adoc[]
+
+include::chapters/02_project_index.adoc[]
+
+== Topic: React
+
+include::chapters/03 modern-react-with-redux.adoc[]
+
+include::chapters/04_book_react_and_react_native.adoc[]
+
+== Topic: TypeScript

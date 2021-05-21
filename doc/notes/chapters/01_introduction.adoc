@@ -1,0 +1,59 @@
+== Management Summary
+
+
+The repo contains notes and other resources on the following webdev topics
+
+* React
+* TypeScript
+* JavaScript
+* CSS
+* Webpack
+
+=== List of courses dedicated to React
+
+**Online Courses from https://www.udemy.com/[Udemy]: **
+
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:  https://www.udemy.com/course/react-redux/[Modern React with Redux]
+
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:
+https://www.udemy.com/course/the-complete-react-native-and-redux-course/[The Complete React Native + Hooks Course]
+
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:
+https://www.udemy.com/course/microservices-with-node-js-and-react/[Microservices with Node JS and React]
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:
+https://www.udemy.com/course/server-side-rendering-with-react-and-redux/[Server Side Rendering with React and Redux]
+
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:
+https://www.udemy.com/course/react-native-advanced/[React Native: Advanced Concepts]
+
+**Online Courses from https://subscription.packtpub.com/[Packt]:**
+
+* Brad Traversy: https://subscription.packtpub.com/video/application_development/9781838645274[React Front to Back]
+
+* Brad Traversy:  https://subscription.packtpub.com/video/web_development/9781801077545[MERN E-commerce from Scratch]
+
+* Andrew Mead: https://subscription.packtpub.com/video/web_development/9781839212123[The Complete React Developer Course (with Hooks and Redux)]
+
+* Maximilian Schwarzmüller
+https://subscription.packtpub.com/video/application_development/9781789132229[React - The Complete Guide (incl. Hooks, React Router and Redux)]
+
+**Books**
+
+**Online Courses from https://www.udemy.com/[Udemy]: **
+
+=== List of courses dedicated to TypeScript
+
+**Online Courses from https://www.udemy.com/[Udemy]: **
+
+* https://www.udemy.com/user/sgslo/[Stephen Grider]:  https://www.udemy.com/course/typescript-the-complete-developers-guide/[Typescript: The Complete Developer's Guide]
+
+* https://www.udemy.com/user/richard-bray/[Richard Oliver Bray]
+https://www.udemy.com/course/typescript-with-react-hooks-and-context/[Typescript with modern React (i.e. hooks, context, suspense)]
+
+**Online Courses from https://subscription.packtpub.com/[Packt]:**
+
+* Maximilian Schwarzmüller
+https://subscription.packtpub.com/video/web_development/9781789951905[Understanding TypeScript – 2020 Edition]
+
+
+

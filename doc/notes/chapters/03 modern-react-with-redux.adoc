@@ -1,0 +1,85 @@
+=== https://www.udemy.com/[Udemy] / https://www.udemy.com/user/sgslo/[Stephen Grider] / https://www.udemy.com/course/react-redux/[Modern React with Redux]
+
+==== Outline
+
+
+* Lecture 137: Hooks
+
+
+==== Lecture Log
+
+[cols="^,5"]
+|===
+|Lecture |Topic
+
+|48
+|initial description - challenges - initializing app
+
+|49
+|link up semantic-ui - start dev server - delete other sources - start with first files
+
+|
+|
+
+|137
+|Intro to Hooks
+
+|138
+|Create project 'widgets'
+
+|139
+|app design
+
+|
+|
+
+|===
+
+
+==== Lecture Log
+
+
+* initialize project `npx create-react-app seasons`
+* startup dev server `npm start`
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+
+* info on https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API[geolocation api]
+
+==== Topics
+
+===== Hooks
+
+
+* Motivation
+  ** write reusable code
+  ** **not** make React easier
+  ** **not** write fancy syntax
+  ** **not** get rid of class components
+
+* Used to overcome the limits of functional components
+  ** access to state (useState)
+  ** access to lifecycle methods (useEffect)
+  ** access to the reference System (useRef)
+
+* "primitive" hooks _(not an official term)_
+. useState
+. useEffect
+. useContext
+. useReducer
+. useCallback
+. useMemo
+. useRef
+. useImparativeHandle
+. useLayoutEffect
+. useDebugValue
+
+* customHooks
+  ** use primitive Hooks
+
+
+npx create-react-app widgets
+
+
+===== Redux
+
+===== Redux
