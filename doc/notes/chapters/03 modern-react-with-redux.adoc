@@ -28,7 +28,7 @@
 |Create project 'widgets'
 
 |139
-|app design
+|app design and start of implementation
 
 |
 |
